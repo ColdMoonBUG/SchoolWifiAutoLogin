@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">  <!-- 允许明文 HTTP 流量 -->
+        <domain includeSubdomains="false">172.16.1.38</domain>  <!-- 你的目标域名/IP -->
+    </domain-config>
+</network-security-config>

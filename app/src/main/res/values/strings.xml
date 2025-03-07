@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="activity2">这是第二个页面</string>
+    <string name="ButtonName">这是一个跳转按钮</string>
+    <string name="button2name">这是返回按钮</string>
+    <string name="spinner_prompt">Select iTermType</string>
+</resources>
